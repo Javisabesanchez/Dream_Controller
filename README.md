@@ -10,4 +10,7 @@ y un modelo 3D creado en Google SketchUp.
 La idea es un dispositivo que se coloca en la mesilla (el del modelo 3D)
 y una aplicación para controlarlo. Serviría para controlar tus sueños
 así como para configurar tu hora de despertarte.
-Permite conectar múltiples dispositivos.
+Permite conectar múltiples dispositivos a una misma aplicación, así como tener
+monitorizado el estado de todos ellos.
+
+Para el diseño de la aplicación se ha seguido DCU.
